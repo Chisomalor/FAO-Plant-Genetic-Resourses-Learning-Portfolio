@@ -16,11 +16,12 @@ More importantly, they shifted my research interests toward computational agricu
 
 ---
 
-## Courses Completed
-- ✅ **Introduction to Plant Genetic Resources for Food and Agriculture**
-- ✅ **GRIN-Global Community Edition (GGCE) and Genesys**
-- ✅ **Global Crop Conservation Strategies**
-- ✅ **Global Information System (GLIS)**
+## Courses Completed & Certificates
+* ✅ **Introduction to Plant Genetic Resources for Food and Agriculture** — [Verify Certificate](https://elearning.fao.org/admin/tool/certificate/index.php?code=2470975570CA)
+* ✅ **GRIN-Global Community Edition (GGCE) and Genesys** — [Verify Certificate](https://elearning.fao.org/admin/tool/certificate/index.php?code=9874403918CA)
+* ✅ **Global Crop Conservation Strategies** — [Verify Certificate](https://elearning.fao.org/admin/tool/certificate/index.php?code=4385242860CA)
+* ✅ **Global Information System (GLIS)** — [Verify Certificate](https://elearning.fao.org/admin/tool/certificate/index.php?code=1345860176CA)
+
 
 ---
 
